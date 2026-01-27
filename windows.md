@@ -1,10 +1,10 @@
 # Windows
 
-## Шаг 1. Скачайте приложение
+## Шаг 1. Скачайте приложение и запустите приложение nekobox
 
 [Скачать Nekoray](https://en.nekoray.org/download/)
 
-<img src="images/windows1.jpeg" width="700">
+<img src="images/windows1.jpg" width="700">
 
 ## Шаг 2. Импортируйте конфигурацию
 
