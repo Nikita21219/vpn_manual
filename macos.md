@@ -12,6 +12,6 @@
 4. Нажмите синюю кнопку включения
 5. Разрешите добавление VPN-конфигурации
 
-<img src="images/macOS1.png" width="500">
+<img src="images/macOS1.png" width="700">
 
-<img src="images/macOS2.png" width="500">
+<img src="images/macOS2.png" width="700">
