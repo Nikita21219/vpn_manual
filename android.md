@@ -2,7 +2,7 @@
 
 ## Шаг 1. Скачайте и установите приложение
 
-[Скачать Clash Meta for Android](bin/cmfa-2.11.24-meta-universal-release.apk)
+[Скачать Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.24/cmfa-2.11.24-meta-universal-release.apk)
 
 Откройте скачанный `.apk` и установите приложение. Если Android заблокирует установку, разрешите установку из неизвестных источников в настройках.
 
