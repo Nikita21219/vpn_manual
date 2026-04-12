@@ -12,3 +12,7 @@
 - [Android](android.md)
 - [macOS](macos.md)
 - [Windows](windows.md)
+
+---
+
+## [Не работает VPN?](troubleshooting.md)
