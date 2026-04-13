@@ -15,4 +15,6 @@
 
 ---
 
-## [Не работает VPN?](troubleshooting.md)
+[Как обновить подписку?](update-subscription.md)
+
+[Не работает VPN?](troubleshooting.md)
