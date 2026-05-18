@@ -2,6 +2,14 @@
 
 ---
 
+## Happ (iOS / Android / macOS / Windows)
+
+На главном экране нажмите иконку обновления (круговые стрелки) рядом с подпиской:
+
+![Обновление в Happ](images/update-happ.jpg)
+
+---
+
 ## Hiddify (Windows / macOS / Linux / Android / iOS)
 
 Нажми на иконку обновления рядом с названием подписки:

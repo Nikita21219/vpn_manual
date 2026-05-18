@@ -4,12 +4,9 @@
 
 ---
 
-## Выберите вашу операционную систему
+## Инструкция по подключению
 
-- [iOS/iPadOS](ios.md)
-- [Android](android.md)
-- [macOS](macos.md)
-- [Windows](windows.md)
+- [Универсальная инструкция (iOS / Android / macOS / Windows)](happ.md)
 
 ---
 
