@@ -6,7 +6,8 @@
 
 ## Инструкция по подключению
 
-- [Универсальная инструкция (iOS / Android / macOS / Windows)](happ.md)
+- [Универсальная инструкция Hiddify (iOS / Android / macOS / Windows)](hiddify.md)
+- [Универсальная инструкция Happ если не работает Hiddify (iOS / Android / macOS / Windows)](happ.md)
 
 ---
 
