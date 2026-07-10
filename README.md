@@ -9,6 +9,7 @@
 - [Универсальная инструкция Hiddify (iOS / Android / macOS / Windows)](hiddify.md)
 - [Универсальная инструкция Happ если не работает Hiddify (iOS / Android / macOS / Windows)](happ.md)
 - [Инструкция Karing (iOS / iPadOS)](karing.md)
+- [Инструкция INCY (iOS / iPadOS)](incy.md)
 
 ---
 
