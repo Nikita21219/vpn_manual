@@ -28,13 +28,17 @@
 
 ## 7. Попробуйте другое приложение
 
-Если через Happ не работает, попробуйте другое приложение под вашу ОС:
+Откройте страницу своей операционной системы - внизу есть раздел с альтернативными приложениями:
 
-- [iOS/iPadOS - Clash Mi](ios.md)
-- [Android - Clash Meta](android.md)
-- [macOS - FlClash](macos.md)
-- [Windows - Hiddify](windows.md)
+- [🍎 iOS / iPadOS](ios.md)
+- [🤖 Android](android.md)
+- [🍏 macOS](macos.md)
+- [🪟 Windows](windows.md)
 
 ## Ничего не помогло?
 
 Напишите мне - разберемся.
+
+---
+
+[← К выбору операционной системы](README.md)

@@ -1,19 +1,28 @@
+# Инструкция по подключению VPN
+
+## Выберите вашу операционную систему
+
+| Устройство | Основное приложение | |
+|---|---|---|
+| 🍎 **[iOS / iPadOS](ios.md)** | Clash Mi | iPhone, iPad |
+| 🤖 **[Android](android.md)** | Hiddify | телефоны и планшеты |
+| 🍏 **[macOS](macos.md)** | Hiddify | MacBook, iMac |
+| 🪟 **[Windows](windows.md)** | Hiddify | ПК и ноутбуки |
+
+На каждой странице - полная инструкция по установке, а внизу список альтернативных приложений на случай, если основное не заработало.
+
+---
+
+## Полезное
+
+- [Как обновить подписку](update-subscription.md)
+- [Не работает VPN? Частые вопросы и проблемы](troubleshooting.md)
+
+---
+
 ## Реферальная программа
 
 - **1 друг = 1 месяц VPN бесплатно**
-
----
-
-## Инструкция по подключению
-
-- [Универсальная инструкция Hiddify (iOS / Android / macOS / Windows)](hiddify.md)
-- [Универсальная инструкция Happ если не работает Hiddify (iOS / Android / macOS / Windows)](happ.md)
-- [Инструкция Karing (iOS / iPadOS)](karing.md)
-- [Инструкция INCY (iOS / iPadOS)](incy.md)
-
----
-
-- [Частые вопросы и проблемы](troubleshooting.md)
 
 ---
 
