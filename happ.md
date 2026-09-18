@@ -6,7 +6,7 @@
 
 ## Шаг 1. Скачайте и установите приложение
 
-- [iOS / iPadOS / macOS - App Store](https://apps.apple.com/ru/app/happ-proxy-utility/id6783623643)
+- [iOS / iPadOS / macOS - App Store](https://apps.apple.com/ru/app/happ-lite/id6799917773)
 - [Android - Google Play](https://play.google.com/store/apps/details?id=com.happproxy)
 - [Windows - установщик](https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe)
 
