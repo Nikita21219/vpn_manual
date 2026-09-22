@@ -16,6 +16,7 @@
 ## Полезное
 
 - [Как обновить подписку](update-subscription.md)
+- [Как сменить страну](change-country.md)
 - [Не работает VPN? Частые вопросы и проблемы](troubleshooting.md)
 
 ---
