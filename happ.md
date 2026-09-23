@@ -6,11 +6,11 @@
 
 ## Шаг 1. Скачайте и установите приложение
 
-- [iOS / iPadOS / macOS - App Store](https://apps.apple.com/ru/app/happ-lite/id6799917773)
+- [iOS / iPadOS / macOS - App Store](https://apps.apple.com/kz/app/happ-proxy-utility/id6504287215)
 - [Android - Google Play](https://play.google.com/store/apps/details?id=com.happproxy)
 - [Windows - установщик](https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe)
 
-Если Happ не находится в App Store - [смените регион App Store](app-store-region.md).
+В российском App Store Happ нет, поэтому на iPhone, iPad и Mac сначала [смените регион App Store](app-store-region.md).
 
 ## Шаг 2. Добавьте профиль
 
