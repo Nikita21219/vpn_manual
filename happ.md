@@ -10,6 +10,8 @@
 - [Android - Google Play](https://play.google.com/store/apps/details?id=com.happproxy)
 - [Windows - установщик](https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe)
 
+Если Happ не находится в App Store - [смените регион App Store](app-store-region.md).
+
 ## Шаг 2. Добавьте профиль
 
 1. Скопируйте ключ, который я отправил

@@ -37,7 +37,7 @@
 - [Karing](karing.md)
 - [INCY](incy.md)
 - [Happ](happ.md)
-- [Hiddify](hiddify-ios.md) - *доступен не во всех регионах App Store*
+- [Hiddify](hiddify-ios.md) - *доступен не во всех регионах App Store, [как сменить регион](app-store-region.md)*
 
 ---
 

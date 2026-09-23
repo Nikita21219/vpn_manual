@@ -2,7 +2,7 @@
 
 Альтернативное приложение. Основная инструкция для iOS - [Clash Mi](ios.md).
 
-> Hiddify доступен не во всех регионах App Store. Если приложение не находится - используйте [Clash Mi](ios.md), [Karing](karing.md) или [INCY](incy.md).
+> Hiddify доступен не во всех регионах App Store. Если приложение не находится - используйте [Clash Mi](ios.md), [Karing](karing.md) или [INCY](incy.md), либо [смените регион App Store](app-store-region.md).
 
 ## Шаг 1. Скачайте приложение
 
