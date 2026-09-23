@@ -44,6 +44,7 @@
 
 - [Happ](happ.md)
 - [Clash Meta for Android](clash-meta.md)
+- [FlClash](flclash.md#android)
 
 ---
 

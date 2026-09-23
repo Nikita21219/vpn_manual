@@ -46,7 +46,7 @@
 ## Не заработало? Попробуйте другое приложение
 
 - [Happ](happ.md)
-- [FlClash](flclash.md)
+- [FlClash](flclash.md#macos)
 
 ---
 
